@@ -1,0 +1,15 @@
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\SolveAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\SolveAssignment.AssemblyInfoInputs.cache
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\SolveAssignment.AssemblyInfo.cs
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\SolveAssignment.csproj.CoreCompileInputs.cache
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\SolveAssignment.sourcelink.json
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\bin\Debug\net8.0\SolveAssignment.exe
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\bin\Debug\net8.0\SolveAssignment.deps.json
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\bin\Debug\net8.0\SolveAssignment.runtimeconfig.json
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\bin\Debug\net8.0\SolveAssignment.dll
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\bin\Debug\net8.0\SolveAssignment.pdb
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\SolveAssignment.dll
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\refint\SolveAssignment.dll
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\SolveAssignment.pdb
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\SolveAssignment.genruntimeconfig.cache
+E:\Documents\SE_5\PRN212\ASM01\SolveAssignment\obj\Debug\net8.0\ref\SolveAssignment.dll
