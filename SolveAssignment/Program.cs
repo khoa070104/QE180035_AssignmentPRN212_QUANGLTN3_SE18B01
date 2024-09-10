@@ -15,7 +15,7 @@
                     case 1:
                         Console.Write("Enter Length: ");
                         double length = double.Parse(Console.ReadLine());
-                        Console.Write("Nhập Width: ");
+                        Console.Write("Enter Width: ");
                         double width = double.Parse(Console.ReadLine());
                         var rectangle = CalculateShape(1, length, width);
                         Console.WriteLine($"Rectangle - Perimeter: {rectangle.Item1}, Area: {rectangle.Item2}");
